@@ -22,7 +22,7 @@ void InsertSort(int* seq, int seq_size) {
 }
 
 int main() {
-	int a[6] = { 74.47,6,29.22,3 };
+	int a[6] = { 74,47,6,29,22,3 };
 	InsertSort(a, 6);
 	return 0;
 }
